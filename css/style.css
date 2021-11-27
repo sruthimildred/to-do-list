@@ -1,0 +1,33 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/ggg.jpg);
+    height: 100vh;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    /* background-color:#5286F3; */
+    font-size:14px;
+    color:#fff;
+    font-family: century gothic;
+
+}
+.simple-login-container{
+    width:300px;
+    max-width:100%;
+    margin:50px auto;
+}
+.simple-login-container h2{
+    text-align:center;
+    font-size:20px;
+}
+
+.simple-login-container .btn-login{
+    background-color:#FF5964;
+    color:#fff;
+}
+.btn-login:hover{
+    border-color: #f8fcff;
+transition: .5s;
+}
+a{
+    color:#fff;
+}
